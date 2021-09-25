@@ -58,13 +58,13 @@
 	"Name": "FNF Auto Player",
 	"source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua',true))()",
 	"Description": "Really easy to use, and you can win everytime without getting caught!"
-	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891259451405910027/Screenshot_2021-09-13_210148.png",
-	}
+	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891259451405910027/Screenshot_2021-09-13_210148.png"
+	},
 	"Unnamed ESP":{
 	"Name": "Unnamed ESP",
 	"source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fujijared2810/unnamed/main/unnamed'))()",
 	"Description": "Best Tool for ESP",
 	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891260144934084648/7f1913_11357da4e80946bc8eacac683298dec2_mv2.png"
-	},
+	}
     }
 }
