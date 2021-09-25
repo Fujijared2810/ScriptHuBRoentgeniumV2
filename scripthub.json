@@ -57,7 +57,7 @@
 	"FNF Auto Player": {
 	"Name": "FNF Auto Player",
 	"source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua',true))()",
-	"Description": "Really easy to use, and you can win everytime without getting caught!"
+	"Description": "Really easy to use, and you can win everytime without getting caught!",
 	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891259451405910027/Screenshot_2021-09-13_210148.png"
 	},
 	"Unnamed ESP":{
