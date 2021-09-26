@@ -2,43 +2,31 @@
     "scriptHub": {
          "Dex Explorer": { 
             "Name": "Dex Explorer", 
-            "source": "loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Fujijared2810/dexxx/main/dex'))()", 
+            "source": "https://raw.githubusercontent.com/Fujijared2810/dexxx/main/dex", 
             "Description": "This is a game explorer( really useful for lua devs)", 
             "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
         },
         "Cmd X":{
             "Name": "Cmd X", 
-            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source',true))()", 
+            "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", 
             "Description": "An admin command's script", 
             "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png"
         },
         "Infinite Yield":{
             "Name": "Infinite Yield", 
-            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()", 
+            "source": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", 
             "Description": "An admin command's script", 
             "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890033506057588836/f3658200-3abc-11ea-973a-b024e3a60673.png"
         },
         "Owl Hub":{
             "Name": "Owl Hub", 
-            "source": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt'),true))()", 
+            "source": "https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt", 
             "Description": "One of the best script hubs!", 
             "Picture": "https://cdn.discordapp.com/attachments/756137943768236133/776898131442925638/Logo.png"
         },
-        "VG Hub":{
-            "Name": "V.G Hub", 
-            "source": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub", 
-            "Description": "V.G Hub Free and Convenient", 
-            "Picture": "https://cdn.discordapp.com/attachments/841336327051542559/841342607593308200/4a59f900ed05f1b292f78670c0118214.png"
-        },
-        "Bruh Hub": {
-            "Name": "Bruh Hub", 
-            "source": "https://pastebin.com/raw/EdqJq71g", 
-            "Description": "One of the free, best and quality script hub that you could ever ask for. There are not many games for this hub as it is mainly focused on the best quality experience possible for the users to make out of this! Currently has 6 games as of May 10th, 2021. PF, SL2, Vesteria and more!", 
-            "Picture": "https://cdn.keshsenpai.com/i/6a2fd86d1795709ef94.png"
-        },
         "Dark Hub": {
             "Name": "Dark Hub",
-            "source": "loadstring(game:HttpGet(('https://darkhub.xyz/remote-script.lua'),false))()",
+            "source": "https://darkhub.xyz/remote-script.lua",
             "Description": "Best hub",
             "Picture": "https://cdn.discordapp.com/attachments/857197028190584833/868986131595796560/DarkHubBalls.png"
         },
@@ -50,19 +38,19 @@
 	},
 	"Domain Hub V2": {
 	"Name": "Domain Hub V2",
-	"source": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source'),true))()",
+	"source": "https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source",
 	"Description": "One of the best Tool for Roblox and Free!",
 	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034125795389480/PC5ARCZ.png"
 	},
 	"FNF Auto Player": {
 	"Name": "FNF Auto Player",
-	"source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua',true))()",
+	"source": "https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",
 	"Description": "Really easy to use, and you can win everytime without getting caught!",
 	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891259451405910027/Screenshot_2021-09-13_210148.png"
 	},
 	"Unnamed ESP":{
 	"Name": "Unnamed ESP",
-	"source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fujijared2810/unnamed/main/unnamed'))()",
+	"source": "https://raw.githubusercontent.com/Fujijared2810/unnamed/main/unnamed",
 	"Description": "Best Tool for ESP",
 	"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891260144934084648/7f1913_11357da4e80946bc8eacac683298dec2_mv2.png",
 	}
