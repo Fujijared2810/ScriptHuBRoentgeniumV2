@@ -62,7 +62,7 @@
 	},
 	"Zero Hub":{
 	"Name": "Zero Hub",
-	"source": "loadstring(game:HttpGet('https://pastebin.com/raw/6BqW4NDs'))()",
+	"source": "https://pastebin.com/raw/6BqW4NDs",
 	"Description": "Zero Hub Loader Supported Games: JailBreak, Skyranch Made by MarkGG#8181 Mental Support by Scorpey.",
 	"Picture": "https://cdn.discordapp.com/attachments/882852913335123990/886971001110405130/unknown.png"    
         },
