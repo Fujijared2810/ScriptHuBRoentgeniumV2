@@ -58,7 +58,13 @@
 	"Name": "Zero Hub",
 	"source": "https://pastebin.com/raw/6BqW4NDs",
 	"Description": "Zero Hub Loader Supported Games: JailBreak, Skyranch Made by MarkGG#8181 Mental Support by Scorpey.",
-	"Picture": "https://cdn.discordapp.com/attachments/882852913335123990/886971001110405130/unknown.png"    
+	"Picture": "https://cdn.discordapp.com/attachments/882852913335123990/886971001110405130/unknown.png"  
         },
-    }
+	    "Domain Hub X":{
+		    "Name": "Domain Hub X",
+		    "source": "https://raw.githubusercontent.com/shlexsoftworks/DomainX/main/source",
+		    "Description": "The Most Powerful Roblox tool exploit scripts",
+		    "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/892980543292080158/video0.mp4"    
+        },
+  }
 }
